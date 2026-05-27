@@ -1,0 +1,5 @@
+torch==2.4.0
+polars-u64-idx==1.17.1
+pyarrow==18.1.0
+numpy==1.26.4
+tqdm==4.67.1
